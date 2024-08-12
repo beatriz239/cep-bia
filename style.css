@@ -1,0 +1,16 @@
+body{
+    background-color: 
+    rgb(248, 201, 250);
+}
+fieldset{
+    border-radius: 6px;
+    color: rgb(222, 115, 243);
+}
+input{
+    border-radius: 5px;
+    
+}
+
+h1{
+    color: rgb(222, 115, 243);
+}
